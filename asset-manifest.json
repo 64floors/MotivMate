@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MotivMate/static/css/main.0fbb2715.css",
-    "main.js": "/MotivMate/static/js/main.fce40aa9.js",
+    "main.css": "/MotivMate/static/css/main.3201fd40.css",
+    "main.js": "/MotivMate/static/js/main.cb9e5451.js",
     "static/js/787.41b54817.chunk.js": "/MotivMate/static/js/787.41b54817.chunk.js",
     "static/media/MotiveMateLogo.png": "/MotivMate/static/media/MotiveMateLogo.d4ba042aa3471dee7a56.png",
     "index.html": "/MotivMate/index.html",
-    "main.0fbb2715.css.map": "/MotivMate/static/css/main.0fbb2715.css.map",
-    "main.fce40aa9.js.map": "/MotivMate/static/js/main.fce40aa9.js.map",
+    "main.3201fd40.css.map": "/MotivMate/static/css/main.3201fd40.css.map",
+    "main.cb9e5451.js.map": "/MotivMate/static/js/main.cb9e5451.js.map",
     "787.41b54817.chunk.js.map": "/MotivMate/static/js/787.41b54817.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fbb2715.css",
-    "static/js/main.fce40aa9.js"
+    "static/css/main.3201fd40.css",
+    "static/js/main.cb9e5451.js"
   ]
 }
