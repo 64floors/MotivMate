@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MotivMate/static/css/main.228c7346.css",
+    "main.css": "/MotivMate/static/css/main.9944da90.css",
     "main.js": "/MotivMate/static/js/main.37c853ad.js",
     "static/js/787.41b54817.chunk.js": "/MotivMate/static/js/787.41b54817.chunk.js",
     "static/media/Chivo-Regular.ttf": "/MotivMate/static/media/Chivo-Regular.c02964be6ad17a843ee3.ttf",
     "static/media/MotiveMateLogo.png": "/MotivMate/static/media/MotiveMateLogo.d4ba042aa3471dee7a56.png",
     "index.html": "/MotivMate/index.html",
-    "main.228c7346.css.map": "/MotivMate/static/css/main.228c7346.css.map",
+    "main.9944da90.css.map": "/MotivMate/static/css/main.9944da90.css.map",
     "main.37c853ad.js.map": "/MotivMate/static/js/main.37c853ad.js.map",
     "787.41b54817.chunk.js.map": "/MotivMate/static/js/787.41b54817.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.228c7346.css",
+    "static/css/main.9944da90.css",
     "static/js/main.37c853ad.js"
   ]
 }
