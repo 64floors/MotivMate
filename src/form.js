@@ -17,6 +17,7 @@ function Form() {
           <input name="entry.683437260" type="text" id="name"/>
           <label for="email">Email</label>
           <input name="entry.322523339" type="email" id="email"/>
+          <label>&nbsp;</label>
           <button type="submit">Submit</button>
         </form>
         </div>

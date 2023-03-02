@@ -11,7 +11,7 @@ function Home(props) {
         <img src={logo} className='App-logo' alt="logo" />
         </div>
         <div className='mainContent'>
-        <p>Find Your Motive Mate</p>
+        <h1>Find Your Motive Mate</h1>
         <p>Step 1- Write down daily goals on what would be a perfect day</p>
         <p>Step 2- Add some long term goals</p>
         <p>Step 3- Mark your goals complete daily and get a daily score</p>
